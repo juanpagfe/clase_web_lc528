@@ -2,7 +2,7 @@
 
 ## About
 
-This site demonstrates the use of the [Hugo Goa Theme](https://github.com/shenoybr/hugo-goa) by [@shenoybr](https://github.com/shenoybr).
+This site demonstrates the use of the [Hugo Goa Theme](https://github.com/shenoybr/hugo-goa).
 
 ## Usage
 
@@ -13,4 +13,4 @@ This site demonstrates the use of the [Hugo Goa Theme](https://github.com/shenoy
 
 ## License
 
-Licensed under the [MIT](https://opensource.org/licenses/MIT) License. See the [LICENSE](https://raw.githubusercontent.com/shenoybr/hugo-goa-demo/master/LICENSE) file for more details.
+Licensed under the [MIT](https://opensource.org/licenses/MIT) License. See the [LICENSE](https://raw.githubusercontent.com/juanpagfe/clase_web_lc528/main/LICENSE) file for more details.
